@@ -6,3 +6,8 @@ Almost everything actually! DNA is the blueprint of human life. The code makes u
 
 ### What is this repositiry?
 This repository contains all takeaways from my analysis of 23andMe, a DNA analytics company which really revolutionized genomics and made it accessible to all. I really admire their journey especially under the leadership of their Co-Founder and CEO Anne Wojcicki
+
+### Learning Resources
+- [Publications and whitepapers](https://research.23andme.com/publications/)
+- [Interactive DNA Discovery](https://education.23andme.com/dna-discovery/)
+- [Sample Generated Reports](https://education.23andme.com/example-reports/)
